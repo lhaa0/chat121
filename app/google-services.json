@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851394648808",
+    "firebase_url": "https://chatone2oneku.firebaseio.com",
+    "project_id": "chatone2oneku",
+    "storage_bucket": "chatone2oneku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851394648808:android:510424bb25e7f1d4",
+        "android_client_info": {
+          "package_name": "com.rizki.androidlatihanchat_fadilarizki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851394648808-qoasdgq0pi05sl1ke265kth18b5brt6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rizki.androidlatihanchat_fadilarizki",
+            "certificate_hash": "52019e0f8cec9db708895dc419e6213a819548d8"
+          }
+        },
+        {
+          "client_id": "851394648808-1qidv4i334qkggce8c2p4jjshcrdsamt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSQdpnw1iqMXTzkC_mN7Bz-hDEbZcUXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851394648808-1qidv4i334qkggce8c2p4jjshcrdsamt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
