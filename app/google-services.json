@@ -1,21 +1,58 @@
 {
   "project_info": {
-    "project_number": "851394648808",
-    "firebase_url": "https://chatone2oneku.firebaseio.com",
-    "project_id": "chatone2oneku",
-    "storage_bucket": "chatone2oneku.appspot.com"
+    "project_number": "536224969117",
+    "firebase_url": "https://androidlatihan15.firebaseio.com",
+    "project_id": "androidlatihan15",
+    "storage_bucket": "androidlatihan15.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:851394648808:android:510424bb25e7f1d4",
+        "mobilesdk_app_id": "1:536224969117:android:bc7adfac08704459",
+        "android_client_info": {
+          "package_name": "com.rizki.androidlatihan15_firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536224969117-njdh0uuij7nt2gb1hr459mkaomlbdta6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rizki.androidlatihan15_firebasedb",
+            "certificate_hash": "52019e0f8cec9db708895dc419e6213a819548d8"
+          }
+        },
+        {
+          "client_id": "536224969117-p666rpsds4t8lmuvdsnnf1eg294na5n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiZInvZYJMVJae5t7jMmC_VeEBYoypNgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536224969117-p666rpsds4t8lmuvdsnnf1eg294na5n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536224969117:android:510424bb25e7f1d4",
         "android_client_info": {
           "package_name": "com.rizki.androidlatihanchat_fadilarizki"
         }
       },
       "oauth_client": [
         {
-          "client_id": "851394648808-qoasdgq0pi05sl1ke265kth18b5brt6e.apps.googleusercontent.com",
+          "client_id": "536224969117-nj70mtibif579fitdkhf4ru3im25be1k.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.rizki.androidlatihanchat_fadilarizki",
@@ -23,20 +60,20 @@
           }
         },
         {
-          "client_id": "851394648808-1qidv4i334qkggce8c2p4jjshcrdsamt.apps.googleusercontent.com",
+          "client_id": "536224969117-p666rpsds4t8lmuvdsnnf1eg294na5n3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDTSQdpnw1iqMXTzkC_mN7Bz-hDEbZcUXY"
+          "current_key": "AIzaSyCiZInvZYJMVJae5t7jMmC_VeEBYoypNgc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "851394648808-1qidv4i334qkggce8c2p4jjshcrdsamt.apps.googleusercontent.com",
+              "client_id": "536224969117-p666rpsds4t8lmuvdsnnf1eg294na5n3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

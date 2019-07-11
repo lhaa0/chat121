@@ -2,6 +2,7 @@ package com.rizki.androidlatihanchat_fadilarizki.activity
 
 import android.os.Build
 import android.os.Bundle
+import android.view.MenuItem
 import android.view.View
 import androidx.appcompat.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
@@ -82,6 +83,13 @@ class SelectFriendActivity: AppCompatActivity() {
         actionBar!!.setDisplayHomeAsUpEnabled(true)
         actionBar!!.setHomeButtonEnabled(true)
         //        actionBar.setSubtitle(Constant.getFriendsData(this).size()+" friends");
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem?): Boolean {
+        when(item!!.itemId) {
+            android.R.id.home -> finish()
+        }
+        return super.onOptionsItemSelected(item)
     }
 
     fun bindView() {
